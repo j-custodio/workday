@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wdnm:Diagram xmlns:wdnm="http://workday.com/studio/editors/notation">
+  <element href="assembly.xml#WorkdayAssembly"/>
+  <visualProperties x="258" y="156">
+    <element href="assembly.xml#StartHere"/>
+  </visualProperties>
+  <visualProperties x="513" y="157">
+    <element href="assembly.xml#Eval-Validation"/>
+  </visualProperties>
+  <connections type="routesTo" sourceAnchorX="0.8256880733944955" sourceAnchorY="1.0" targetAnchorX="0.007874015748031496" targetAnchorY="0.10869565217391304">
+    <source href="assembly.xml#StartHere"/>
+    <target href="assembly.xml#Eval-Validation"/>
+  </connections>
+</wdnm:Diagram>
